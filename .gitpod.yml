@@ -1,0 +1,5 @@
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: dotnet test
+
+image: gitpod/workspace-dotnet
